@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <title>디지털 일기 지도</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
@@ -12,6 +13,7 @@
         #map {
             height: 100vh;
         }
+
         #title {
             position: absolute;
             top: 15px;
@@ -40,6 +42,7 @@
                 transform: translateX(-50%) scale(1.1);
             }
         }
+
         #introModal {
             display: none;
             position: fixed;
@@ -117,7 +120,7 @@
             cursor: pointer;
             border: none;
             border-radius: 6px;
-            background-color: cornflowerblue;           
+            background-color: cornflowerblue;
         }
 
             button.active {
@@ -167,6 +170,7 @@
             margin-bottom: 10px;
             object-fit: cover;
         }
+
         #modalDiary {
             white-space: pre-wrap; /* 줄바꿈과 공백 유지 */
             word-wrap: break-word; /* 너무 긴 단어도 자동 줄 바꿈 */
