@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루션 항목", "{2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}"
+	ProjectSection(SolutionItems) = preProject
+		app.js = app.js
+		index.html = index.html
+		manifest.json = manifest.json
+		service-worker.js = service-worker.js
+		style.css = style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icons", "icons", "{C8D5274F-AC00-46C7-1F8D-E88E81087A52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{0E907DAE-A71B-47F0-9C50-D781BCA90E33}"
+	ProjectSection(SolutionItems) = preProject
+		diary.json = diary.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{691006AC-1A06-4610-A564-CFFDCF168DFF}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\유지훈\Desktop\ddd\220906.jpg = C:\Users\유지훈\Desktop\ddd\220906.jpg
+		C:\Users\유지훈\Desktop\ddd\231202.jpg = C:\Users\유지훈\Desktop\ddd\231202.jpg
+		C:\Users\유지훈\Desktop\ddd\240204.jpg = C:\Users\유지훈\Desktop\ddd\240204.jpg
+		C:\Users\유지훈\Desktop\ddd\240214.jpg = C:\Users\유지훈\Desktop\ddd\240214.jpg
+		C:\Users\유지훈\Desktop\ddd\240218.jpg = C:\Users\유지훈\Desktop\ddd\240218.jpg
+		C:\Users\유지훈\Desktop\ddd\240228.jpg = C:\Users\유지훈\Desktop\ddd\240228.jpg
+		C:\Users\유지훈\Desktop\ddd\240301.jpg = C:\Users\유지훈\Desktop\ddd\240301.jpg
+		C:\Users\유지훈\Desktop\ddd\240303.jpg = C:\Users\유지훈\Desktop\ddd\240303.jpg
+		C:\Users\유지훈\Desktop\ddd\240314.png = C:\Users\유지훈\Desktop\ddd\240314.png
+		C:\Users\유지훈\Desktop\ddd\240324.jpg = C:\Users\유지훈\Desktop\ddd\240324.jpg
+		C:\Users\유지훈\Desktop\ddd\240403.jpg = C:\Users\유지훈\Desktop\ddd\240403.jpg
+		C:\Users\유지훈\Desktop\ddd\240517.jpg = C:\Users\유지훈\Desktop\ddd\240517.jpg
+		C:\Users\유지훈\Desktop\ddd\240518.jpg = C:\Users\유지훈\Desktop\ddd\240518.jpg
+		C:\Users\유지훈\Desktop\ddd\240705.jpg = C:\Users\유지훈\Desktop\ddd\240705.jpg
+		C:\Users\유지훈\Desktop\ddd\240712.jpg = C:\Users\유지훈\Desktop\ddd\240712.jpg
+		C:\Users\유지훈\Desktop\ddd\240830.jpg = C:\Users\유지훈\Desktop\ddd\240830.jpg
+		C:\Users\유지훈\Desktop\ddd\240831.jpg = C:\Users\유지훈\Desktop\ddd\240831.jpg
+		C:\Users\유지훈\Desktop\ddd\240906.jpg = C:\Users\유지훈\Desktop\ddd\240906.jpg
+		C:\Users\유지훈\Desktop\ddd\240920.jpg = C:\Users\유지훈\Desktop\ddd\240920.jpg
+		C:\Users\유지훈\Desktop\ddd\241005.jpg = C:\Users\유지훈\Desktop\ddd\241005.jpg
+		C:\Users\유지훈\Desktop\ddd\241018.jpg = C:\Users\유지훈\Desktop\ddd\241018.jpg
+		C:\Users\유지훈\Desktop\ddd\241025.jpg = C:\Users\유지훈\Desktop\ddd\241025.jpg
+		C:\Users\유지훈\Desktop\ddd\241108.jpg = C:\Users\유지훈\Desktop\ddd\241108.jpg
+		C:\Users\유지훈\Desktop\ddd\241205.jpg = C:\Users\유지훈\Desktop\ddd\241205.jpg
+		C:\Users\유지훈\Desktop\ddd\241206.jpg = C:\Users\유지훈\Desktop\ddd\241206.jpg
+		C:\Users\유지훈\Desktop\ddd\241213.jpg = C:\Users\유지훈\Desktop\ddd\241213.jpg
+		C:\Users\유지훈\Desktop\ddd\241225.jpg = C:\Users\유지훈\Desktop\ddd\241225.jpg
+		C:\Users\유지훈\Desktop\ddd\250124.jpg = C:\Users\유지훈\Desktop\ddd\250124.jpg
+		C:\Users\유지훈\Desktop\ddd\250213.jpg = C:\Users\유지훈\Desktop\ddd\250213.jpg
+		C:\Users\유지훈\Desktop\ddd\250214.jpg = C:\Users\유지훈\Desktop\ddd\250214.jpg
+		C:\Users\유지훈\Desktop\ddd\250228.jpg = C:\Users\유지훈\Desktop\ddd\250228.jpg
+		C:\Users\유지훈\Desktop\ddd\250301.jpg = C:\Users\유지훈\Desktop\ddd\250301.jpg
+		C:\Users\유지훈\Desktop\ddd\250313.jpg = C:\Users\유지훈\Desktop\ddd\250313.jpg
+		C:\Users\유지훈\Desktop\ddd\250328.jpg = C:\Users\유지훈\Desktop\ddd\250328.jpg
+		C:\Users\유지훈\Desktop\ddd\250424.jpg = C:\Users\유지훈\Desktop\ddd\250424.jpg
+		C:\Users\유지훈\Desktop\ddd\250426.jpg = C:\Users\유지훈\Desktop\ddd\250426.jpg
+		C:\Users\유지훈\Desktop\ddd\250531.jpg = C:\Users\유지훈\Desktop\ddd\250531.jpg
+		C:\Users\유지훈\Desktop\ddd\250606.jpg = C:\Users\유지훈\Desktop\ddd\250606.jpg
+		C:\Users\유지훈\Desktop\ddd\250626.jpg = C:\Users\유지훈\Desktop\ddd\250626.jpg
+		C:\Users\유지훈\Desktop\ddd\250710.jpg = C:\Users\유지훈\Desktop\ddd\250710.jpg
+		C:\Users\유지훈\Desktop\ddd\250802.jpg = C:\Users\유지훈\Desktop\ddd\250802.jpg
+		C:\Users\유지훈\Desktop\ddd\250808.jpg = C:\Users\유지훈\Desktop\ddd\250808.jpg
+		C:\Users\유지훈\Desktop\ddd\250809.jpg = C:\Users\유지훈\Desktop\ddd\250809.jpg
+		C:\Users\유지훈\Desktop\ddd\250817.jpg = C:\Users\유지훈\Desktop\ddd\250817.jpg
+		C:\Users\유지훈\Desktop\ddd\250828.jpg = C:\Users\유지훈\Desktop\ddd\250828.jpg
+		C:\Users\유지훈\Desktop\ddd\250829.jpg = C:\Users\유지훈\Desktop\ddd\250829.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0E907DAE-A71B-47F0-9C50-D781BCA90E33} = {2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}
+		{691006AC-1A06-4610-A564-CFFDCF168DFF} = {2A3A057F-5D22-31FD-628C-DF5EF75AEF1E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE3C0C66-2625-4FEC-A38F-B571068D339C}
+	EndGlobalSection
+EndGlobal
