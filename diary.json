@@ -1,0 +1,25 @@
+[
+  {
+    "region": "����",
+    "zoom": 10,
+    "previewImage": "images/seoul.jpg",
+    "entries": [
+      {
+        "date": "2025-09-01",
+        "text": "���� ���� ����",
+        "photos": [ "images/seoul1.jpg" ]
+      },
+      {
+        "date": "2025-09-02",
+        "text": "�� ���� ����",
+        "photos": [ "images/seoul2.jpg" ]
+      }
+    ]
+  },
+  {
+    "region": "�λ�",
+    "zoom": 10,
+    "previewImage": "images/busan.jpg",
+    "entries": [ "..." ]
+  }
+]
