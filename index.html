@@ -172,6 +172,42 @@
             word-wrap: break-word; /* 너무 긴 단어도 자동 줄 바꿈 */
             overflow-wrap: break-word; /* 최신 브라우저 호환 */
         }
+
+        @media screen and (max-width: 768px) {
+            /* 모달 위치, 크기 조정 */
+            #detailModal {
+                top: 10%;
+                left: 5%;
+                width: 90%;
+                max-width: none;
+                padding: 15px;
+            }
+
+            /* 모달 이미지 확대 */
+            #modalImage {
+                width: 90%;
+                max-height: 300px;
+                margin-bottom: 15px;
+            }
+
+            /* 모달 글자 크기 조정 */
+            #modalDiary {
+                font-size: 16px;
+                line-height: 1.5em;
+            }
+
+            /* 닫기 버튼 조금 더 크게 */
+            #introClose {
+                font-size: 32px;
+                top: 15px;
+                right: 15px;
+            }
+
+            /* 미리보기 이미지도 조금 키움 */
+            .preview-img {
+                width: 80px;
+            }
+        }
     </style>
 </head>
 <body>
